@@ -1,0 +1,16 @@
+{
+  "name": "nodejs-sainf-example",
+  "version": "1.0.0",
+  "description": "nodejs sainf example",
+  "author": "Adriano Righi <contato@adrianorighi.com>",
+  "license": "MIT",
+  "main": "app.js",
+  "keywords": [
+    "nodejs",
+    "bootstrap",
+    "express"
+  ],
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
